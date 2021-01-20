@@ -1,0 +1,19 @@
+Pour pouvoir lancer l'analyseur il faut posséder une jre (version 11 ou ultérieure).
+
+Puis selon l'OS, suivre les démarches ci-dessous:
+
+
+- WINDOWS :
+
+	Il suffit de double-cliquer sur AnalyseurWindows.jar
+
+- LINUX et MAC:
+
+	Il faut se placer dans le dossier contenant AnalyseurLinux.jar, y ouvrir un terminal et lancer la commande :
+
+														java -jar AnalyseurLinux.jar
+
+
+
+Une interface graphique devrait alors se lancer. Elle permet d'ouvrir un fichier contenant des trames avec le bouton "Open a frame file".
+Pour sauvegarder le résultat dans un fichier il faut alors selectionner le bouton "Save".
